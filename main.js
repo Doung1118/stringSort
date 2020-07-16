@@ -26,3 +26,5 @@ console.log(number2.sort(compareNumbers));
 
 //[0, 1, , 2,3, 5, 6 ,12 ]
 //ok 排序ＯＫ
+
+//c
